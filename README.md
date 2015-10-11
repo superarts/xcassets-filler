@@ -1,3 +1,7 @@
+# About this fork
+
+Cloudinary support will be added.
+
 # xcassets-filler
 
 Hate to create a bunch of app icon files with different sizes and drag them one by one into asset catalog? Then this might be helpful for you.
